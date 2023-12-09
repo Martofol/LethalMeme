@@ -15,8 +15,9 @@ p{
 #meme{
     text-align: center;
     align-content: center;
+    margin-top: 100px;
 }
 
-#gif{
+img{
     border: 5px solid red;
 }
